@@ -1,6 +1,4 @@
-package murph.systemDesign.withStrategyPattern;
-
-import murph.systemDesign.withStrategyPattern.Strategy.NormalStrategy;
+package murph.systemDesign._1_StrategyDesignPattern;
 
 public class Main {
     public static void main(String[] args) {

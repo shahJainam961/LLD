@@ -1,4 +1,4 @@
-package murph.systemDesign.withoutStrategyPattern;
+package murph.systemDesign._0_withoutStrategyPattern;
 
 public class Main {
     public static void main(String[] args) {

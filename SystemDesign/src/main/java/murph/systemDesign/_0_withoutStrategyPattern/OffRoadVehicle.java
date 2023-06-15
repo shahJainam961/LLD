@@ -1,4 +1,4 @@
-package murph.systemDesign.withoutStrategyPattern;
+package murph.systemDesign._0_withoutStrategyPattern;
 
 public class OffRoadVehicle extends Vehicle{
     @Override // just to confirm that it is overriding valid function from parent class

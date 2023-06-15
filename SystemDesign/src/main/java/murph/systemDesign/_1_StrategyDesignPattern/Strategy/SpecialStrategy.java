@@ -1,4 +1,4 @@
-package murph.systemDesign.withStrategyPattern.Strategy;
+package murph.systemDesign._1_StrategyDesignPattern.Strategy;
 
 public class SpecialStrategy implements DriveStrategy{
     @Override

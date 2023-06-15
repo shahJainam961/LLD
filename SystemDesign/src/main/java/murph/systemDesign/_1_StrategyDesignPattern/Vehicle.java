@@ -1,6 +1,6 @@
-package murph.systemDesign.withStrategyPattern;
+package murph.systemDesign._1_StrategyDesignPattern;
 
-import murph.systemDesign.withStrategyPattern.Strategy.DriveStrategy;
+import murph.systemDesign._1_StrategyDesignPattern.Strategy.DriveStrategy;
 
 public class Vehicle {
 

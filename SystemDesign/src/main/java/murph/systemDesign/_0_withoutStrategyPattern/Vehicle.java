@@ -1,4 +1,4 @@
-package murph.systemDesign.withoutStrategyPattern;
+package murph.systemDesign._0_withoutStrategyPattern;
 
 public class Vehicle {
     public void drive(){
