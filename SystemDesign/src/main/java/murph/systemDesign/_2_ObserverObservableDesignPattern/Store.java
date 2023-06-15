@@ -28,6 +28,15 @@ public class Store {
 
         iphoneStockObservable.setStockCount(0);
         iphoneStockObservable.setStockCount(4);
+
+        /*
+        * Other examples
+        * Cricket Scoreboard Observable --- Cricbuzz, FanSite, Google, etc. Observers
+        * YouTube Channel Observable --- Subscribers Observers
+        * In Twitter/Facebook Individual Observable --- Individual's followers Observers
+        * Notify me Button ( Implemented in these example)
+        * Weather Station Observable --- Mobile Screen, Weather App, etc. Observers
+        */
     }
 
 }
